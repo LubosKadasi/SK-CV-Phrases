@@ -1,0 +1,828 @@
+Zapni svetlo v obývačke.
+Zapni luster v obývačke.
+Vypni všetky svetlá v dome.
+Nastav jas svetla v kuchyni na 50 %.
+Zmeň farbu svetla v spálni na modrú.
+Vytvor romantickú atmosféru v jedálni.
+Zapni vonkajšie osvetlenie pri vchode.
+Nastav teplotu v obývačke na 22 stupňov celzia.
+Vypni kúrenie v spálni.
+Zapni klimatizáciu v detskej izbe.
+Nastav automatický režim kúrenia.
+Zníž teplotu v celom dome o 2 stupne.
+Zamkni všetky dvere.
+Zapni alarm.
+Vypni alarm.
+Zobraz obraz z bezpečnostnej kamery pri dverách.
+Otvoriť garážovú bránu.
+Zatvoriť garážovú bránu.
+Zapni televízor v obývačke.
+Prepni kanál na číslo 5.
+Zvýš hlasitosť na televízore.
+Prehraj hudbu na spotify v kuchyni.
+Zastav prehrávanie hudby.
+Zapni kávovar.
+Vypni rúru.
+Spusti robotický vysávač v obývačke.
+Aké je nastavenie práčky?
+Zapnúť umývačku riadu.
+Zatiahni žalúzie v spálni.
+Otvoriť okno v kuchyni.
+Aké je počasie vonku?
+Pripomeň mi, aby som vyniesol smeti.
+Nastav časovač na 15 minút.
+Zapni svetlá v obývačke na 75 % jas.
+Vypni všetky vonkajšie svetlá o 22:00.
+Zmeň farbu svetla v kuchyni na teplú bielu.
+Vytvor filmovú atmosféru v obývačke (tlmené svetlo, modré odtiene).
+Zapni nočné svetlo v detskej izbe.
+Rozsvieť svetlo v chodbe, keď zaznamenáš pohyb.
+Nastav termostat na 21 stupňov v celom dome.
+Zapni ventiláciu v kúpeľni na 10 minút.
+Vypni klimatizáciu, keď teplota klesne pod 20 stupňov.
+Nastav nočný režim kúrenia na 18 stupňov.
+Zvýš vlhkosť vzduchu v spálni na 50 %.
+Aké je aktuálne nastavenie termostatu?
+Aktivuj alarm v nočnom režime.
+Pošli mi notifikáciu, ak sa otvoria vchodové dvere.
+Zaznamenaj video z bezpečnostnej kamery pri garáži.
+Otvoriť bránu pre kuriéra.
+Zatvoriť všetky okná v dome.
+Detekuj dym v kuchyni a pošli upozornenie.
+Prehraj najnovšie správy na televízore.
+Spusti hudbu na youtube music v celom dome.
+Nastav hlasitosť na reproduktore v kúpeľni na 30 %.
+Prehraj ďalšiu skladbu.
+Vypni televízor o polnoci.
+Pusti dokumentárny film na netflixe.
+Zapni rúru na 180 stupňov na 30 minút.
+Spusti sušičku na program pre jemné prádlo.
+Aké je nastavenie chladničky?
+Vypni žehličku po 10 minútach nečinnosti.
+Zapni inteligentný varič na ryžu.
+Priprav mi rannú kávu o 7:00.
+Zatiahni závesy v obývačke na 50 %.
+Otvoriť strešné okno v podkroví.
+Aká je predpoveď počasia na zajtra?
+Pripomeň mi, aby som zalial kvety o 18:00.
+Kde je môj telefón?
+Prečítaj mi môj denný rozvrh.
+Zapni svetlá v obývačke na 100 % jas.
+Vypni všetky svetlá v dome o 22:00.
+Zmeň farbu svetla v kuchyni na zelenú.
+Vytvor pracovnú atmosféru v kancelárii.
+Zapni vonkajšie osvetlenie pri terase.
+Nastav teplotu v obývačke na 24 stupňov celzia.
+Zapni zvlhčovač vzduchu v detskej izbe.
+Vypni ventilátor v spálni.
+Nastav osvetlenie v kúpeľni na relaxačný režim.
+Zapni projektor v obývačke.
+Nastav teplotu v pivnici na 18 stupňov.
+Otvoriť dvere na terasu.
+Zatvoriť dvere na balkón.
+Zapni osvetlenie v garáži.
+Nastav teplotu v pracovni na 20 stupňov.
+Zapni reproduktory v záhrade.
+Vypni osvetlenie v pivnici.
+Nastav teplotu v saune na 80 stupňov.
+Zapni osvetlenie v šatníku.
+Vypni osvetlenie v chodbe.
+Nastav teplotu v hosťovskej izbe na 22 stupňov.
+Zapni osvetlenie v práčovni.
+Vypni osvetlenie v dielni.
+Nastav teplotu v zimnej záhrade na 18 stupňov.
+Zapni osvetlenie na schodisku.
+Vypni osvetlenie na terase.
+Nastav teplotu v garáži na 15 stupňov.
+Zapni osvetlenie v sklade.
+Vypni osvetlenie v podkroví.
+Nastav teplotu v obývačke na 23 stupňov.
+Zapni osvetlenie v kuchyni na 100 % jas.
+Vypni osvetlenie v jedálni.
+Nastav teplotu v spálni na 21 stupňov.
+Zapni osvetlenie v detskej izbe na 50 % jas.
+Vypni osvetlenie v kúpeľni.
+Nastav teplotu v obývačke na 22 stupňov.
+Zapni osvetlenie v pracovni na 75 % jas.
+Vypni osvetlenie v garáži.
+Nastav teplotu v kuchyni na 20 stupňov.
+Zapni osvetlenie v jedálni na 100 % jas.
+Vypni osvetlenie v spálni.
+Nastav teplotu v detskej izbe na 21 stupňov.
+Zapni osvetlenie v kúpeľni na 50 % jas.
+Vypni osvetlenie v pracovni.
+Zapni osvetlenie v kuchyni na 75 % jas.
+Nastav teplotu v spálni na 22 stupňov.
+Zapni osvetlenie v detskej izbe na 100 % jas.
+Nastav teplotu v pracovni na 21 stupňov.
+Zapni osvetlenie v garáži na 50 % jas.
+Vypni osvetlenie v sklade.
+Nastav teplotu v podkroví na 20 stupňov.
+Zapni osvetlenie na schodisku na 75 % jas.
+Zapni osvetlenie v dielni na 100 % jas.
+Vypni osvetlenie v práčovni.
+Zapni osvetlenie v šatníku na 50 % jas.
+Zapni osvetlenie v pivnici na 75 % jas.
+Vypni osvetlenie v záhrade.
+Zapni osvetlenie v sklade na 100 % jas.
+Zapni osvetlenie na schodisku na 50 % jas.
+Zapni osvetlenie v dielni na 75 % jas.
+Zapni osvetlenie v šatníku na 100 % jas.
+Zapni osvetlenie v pivnici na 50 % jas.
+Zapni osvetlenie v sklade na 75 % jas.
+Zapni osvetlenie na schodisku na 100 % jas.
+Zapni osvetlenie v dielni na 50 % jas.
+Zapni osvetlenie v šatníku na 75 % jas.
+Zapni osvetlenie v pivnici na 100 % jas.
+Zapni osvetlenie v sklade na 50 % jas.
+Zapni osvetlenie v šatníku na 50 %
+Zapni vonkajšie svetlo pri vchode.
+Zapni vonkajšie svetlo pri terase.
+Nastav svetlo v kúpeľni na relaxačný režim.
+Zapni svetlo v garáži.
+Vypni svetlo v pivnici.
+Zapni svetlo v šatníku.
+Vypni svetlo v chodbe.
+Zapni svetlo v práčovni.
+Vypni svetlo v dielni.
+Zapni svetlo na schodisku.
+Vypni svetlo na terase.
+Zapni svetlo v sklade.
+Vypni svetlo v podkroví.
+Zapni svetlo v kuchyni na 100 % jas.
+Vypni svetlo v jedálni.
+Zapni svetlo v detskej izbe na 50 % jas.
+Vypni svetlo v kúpeľni.
+Zapni svetlo v pracovni na 75 % jas.
+Vypni svetlo v garáži.
+Zapni svetlo v jedálni na 100 % jas.
+Vypni svetlo v spálni.
+Zapni svetlo v kúpeľni na 50 % jas.
+Vypni svetlo v pracovni.
+Zapni svetlo v kuchyni na 75 % jas.
+Zapni svetlo v detskej izbe na 100 % jas.
+Zapni svetlo v garáži na 50 % jas.
+Vypni svetlo v sklade.
+Zapni svetlo na schodisku na 75 % jas.
+Zapni svetlo v dielni na 100 % jas.
+Vypni svetlo v práčovni.
+Zapni svetlo v šatníku na 50 % jas.
+Zapni svetlo v pivnici na 75 % jas.
+Vypni svetlo v záhrade.
+Zapni svetlo v sklade na 100 % jas.
+Zapni svetlo na schodisku na 50 % jas.
+Zapni svetlo v dielni na 75 % jas.
+Zapni svetlo v šatníku na 100 % jas.
+Zapni svetlo v pivnici na 50 % jas.
+Zapni svetlo v sklade na 75 % jas.
+Zapni svetlo na schodisku na 100 % jas.
+Zapni svetlo v dielni na 50 % jas.
+Zapni svetlo v šatníku na 75 % jas.
+Zapni svetlo v pivnici na 100 % jas.
+Zapni svetlo v sklade na 50 % jas.
+Zapni svetlo v šatníku na 50 %
+Zapni svetlá v obývačke.
+Zapni vonkajšie svetlá pri vchode.
+Vytvor filmovú atmosféru v obývačke (tlmené svetlá, modré odtiene).
+Zapni nočné svetlá v detskej izbe.
+Rozsvieť svetlá v chodbe, keď zaznamenáš pohyb.
+Zapni vonkajšie svetlá pri terase.
+Nastav svetlá v kúpeľni na relaxačný režim.
+Zapni svetlá v garáži.
+Vypni svetlá v pivnici.
+Zapni svetlá v šatníku.
+Vypni svetlá v chodbe.
+Zapni svetlá v práčovni.
+Vypni svetlá v dielni.
+Zapni svetlá na schodisku.
+Vypni svetlá na terase.
+Zapni svetlá v sklade.
+Vypni svetlá v podkroví.
+Zapni svetlá v kuchyni na 100 % jas.
+Vypni svetlá v jedálni.
+Zapni svetlá v detskej izbe na 50 % jas.
+Vypni svetlá v kúpeľni.
+Zapni svetlá v pracovni na 75 % jas.
+Vypni svetlá v garáži.
+Zapni svetlá v jedálni na 100 % jas.
+Vypni svetlá v spálni.
+Zapni svetlá v kúpeľni na 50 % jas.
+Vypni svetlá v pracovni.
+Zapni svetlá v kuchyni na 75 % jas.
+Zapni svetlá v detskej izbe na 100 % jas.
+Zapni svetlá v garáži na 50 % jas.
+Vypni svetlá v sklade.
+Zapni svetlá na schodisku na 75 % jas.
+Zapni svetlá v dielni na 100 % jas.
+Vypni svetlá v práčovni.
+Zapni svetlá v šatníku na 50 % jas.
+Zapni svetlá v pivnici na 75 % jas.
+Vypni svetlá v záhrade.
+Zapni svetlá v sklade na 100 % jas.
+Zapni svetlá na schodisku na 50 % jas.
+Zapni svetlá v dielni na 75 % jas.
+Zapni svetlá v šatníku na 100 % jas.
+Zapni svetlá v pivnici na 50 % jas.
+Zapni svetlá v sklade na 75 % jas.
+Zapni svetlá na schodisku na 100 % jas.
+Zapni svetlá v dielni na 50 % jas.
+Zapni svetlá v šatníku na 75 % jas.
+Zapni svetlá v pivnici na 100 % jas.
+Zapni svetlá v sklade na 50 % jas.
+Zapni svetlá v šatníku na 50 %
+Zapni lampy v obývačke.
+Vypni všetky lampy v dome.
+Zapni vonkajšie lampy pri vchode.
+Zapni lampy v obývačke na 75 % jas.
+Vypni všetky vonkajšie lampy o 22:00.
+Vytvor filmovú atmosféru v obývačke (tlmené lampy, modré odtiene).
+Zapni nočné lampy v detskej izbe.
+Rozsvieť lampy v chodbe, keď zaznamenáš pohyb.
+Zapni lampy v obývačke na 100 % jas.
+Vypni všetky lampy v dome o 22:00.
+Zapni vonkajšie lampy pri terase.
+Nastav lampy v kúpeľni na relaxačný režim.
+Zapni lampy v garáži.
+Vypni lampy v pivnici.
+Zapni lampy v šatníku.
+Vypni lampy v chodbe.
+Zapni lampy v práčovni.
+Vypni lampy v dielni.
+Zapni lampy na schodisku.
+Vypni lampy na terase.
+Zapni lampy v sklade.
+Vypni lampy v podkroví.
+Zapni lampy v kuchyni na 100 % jas.
+Vypni lampy v jedálni.
+Zapni lampy v detskej izbe na 50 % jas.
+Vypni lampy v kúpeľni.
+Zapni lampy v pracovni na 75 % jas.
+Vypni lampy v garáži.
+Zapni lampy v jedálni na 100 % jas.
+Vypni lampy v spálni.
+Zapni lampy v kúpeľni na 50 % jas.
+Vypni lampy v pracovni.
+Zapni lampy v kuchyni na 75 % jas.
+Zapni lampy v detskej izbe na 100 % jas.
+Zapni lampy v garáži na 50 % jas.
+Vypni lampy v sklade.
+Zapni lampy na schodisku na 75 % jas.
+Zapni lampy v dielni na 100 % jas.
+Vypni lampy v práčovni.
+Zapni lampy v šatníku na 50 % jas.
+Zapni lampy v pivnici na 75 % jas.
+Vypni lampy v záhrade.
+Zapni lampy v sklade na 100 % jas.
+Zapni lampy na schodisku na 50 % jas.
+Zapni lampy v dielni na 75 % jas.
+Zapni lampy v šatníku na 100 % jas.
+Zapni lampy v pivnici na 50 % jas.
+Zapni lampy v sklade na 75 % jas.
+Zapni lampy na schodisku na 100 % jas.
+Zapni lampy v dielni na 50 % jas.
+Zapni lampy v šatníku na 75 % jas.
+Zapni lampy v pivnici na 100 % jas.
+Zapni lampy v sklade na 50 % jas.
+Zapni lampy v šatníku na 50 %
+Zapni lampu v obývačke.
+Vypni všetky lampu v dome.
+Zapni vonkajšie lampu pri vchode.
+Zapni lampu v obývačke na 75 % jas.
+Vypni všetky vonkajšie lampu o 22:00.
+Vytvor filmovú atmosféru v obývačke (tlmené lampu, modré odtiene).
+Zapni nočné lampu v detskej izbe.
+Rozsvieť lampu v chodbe, keď zaznamenáš pohyb.
+Zapni lampu v obývačke na 100 % jas.
+Vypni všetky lampu v dome o 22:00.
+Zapni vonkajšie lampu pri terase.
+Nastav lampu v kúpeľni na relaxačný režim.
+Zapni lampu v garáži.
+Vypni lampu v pivnici.
+Zapni lampu v šatníku.
+Vypni lampu v chodbe.
+Zapni lampu v práčovni.
+Vypni lampu v dielni.
+Zapni lampu na schodisku.
+Vypni lampu na terase.
+Zapni lampu v sklade.
+Vypni lampu v podkroví.
+Zapni lampu v kuchyni na 100 % jas.
+Vypni lampu v jedálni.
+Zapni lampu v detskej izbe na 50 % jas.
+Vypni lampu v kúpeľni.
+Zapni lampu v pracovni na 75 % jas.
+Vypni lampu v garáži.
+Zapni lampu v jedálni na 100 % jas.
+Vypni lampu v spálni.
+Zapni lampu v kúpeľni na 50 % jas.
+Vypni lampu v pracovni.
+Zapni lampu v kuchyni na 75 % jas.
+Zapni lampu v detskej izbe na 100 % jas.
+Zapni lampu v garáži na 50 % jas.
+Vypni lampu v sklade.
+Zapni lampu na schodisku na 75 % jas.
+Zapni lampu v dielni na 100 % jas.
+Vypni lampu v práčovni.
+Zapni lampu v šatníku na 50 % jas.
+Zapni lampu v pivnici na 75 % jas.
+Vypni lampu v záhrade.
+Zapni lampu v sklade na 100 % jas.
+Zapni lampu na schodisku na 50 % jas.
+Zapni lampu v dielni na 75 % jas.
+Zapni lampu v šatníku na 100 % jas.
+Zapni lampu v pivnici na 50 % jas.
+Zapni lampu v sklade na 75 % jas.
+Zapni lampu na schodisku na 100 % jas.
+Zapni lampu v dielni na 50 % jas.
+Zapni lampu v šatníku na 75 % jas.
+Zapni lampu v pivnici na 100 % jas.
+Zapni lampu v sklade na 50 % jas.
+Zapni lampu v šatníku na 50 %zapni lampu v obývačke.
+Zapni lampu v šatníku na 50 %
+Zasvieť lampu v pivnici na 100 % jas.
+Zasvieť lampu v sklade na 50 % jas.
+Zasvieť lampu na schodisku na 75 % jas.
+Zasvieť lampu v dielni na 100 % jas.
+Zasvieť lampu v šatníku na 50 % jas.
+Zasvieť lampu v pivnici na 75 % jas.
+Zasvieť lampu v sklade na 100 % jas.
+Zasvieť lampu na schodisku na 50 % jas.
+Zasvieť lampu v dielni na 75 % jas.
+Zasvieť lampu v šatníku na 100 % jas.
+Zasvieť lampu v pivnici na 50 % jas.
+Zasvieť lampu v sklade na 75 % jas.
+Zasvieť lampu na schodisku na 100 % jas.
+Zasvieť lampu v dielni na 50 % jas.
+Zasvieť lampu v šatníku na 75 % jas.
+Zasvieť svetlo v garáži.
+Zasvieť svetlo v šatníku.
+Zasvieť svetlo v práčovni.
+Zasvieť svetlo na schodisku.
+Zasvieť svetlo v sklade.
+Zasvieť svetlo v kuchyni na 100 % jas.
+Zasvieť svetlo v detskej izbe na 50 % jas.
+Zasvieť luster v detskej izbe na 50 % jas.
+Zasvieť svetlo v pracovni na 75 % jas.
+Zasvieť svetlo v jedálni na 100 % jas.
+Zasvieť svetlo v garáži na 50 % jas.
+Zasvieť svetlo na schodisku na 75 % jas.
+Zasvieť svetlo v dielni na 100 % jas.
+Zasvieť svetlo v šatníku na 50 % jas.
+Zasvieť svetlo v pivnici na 75 % jas.
+Zasvieť svetlo v sklade na 100 % jas.
+Zasvieť svetlo na schodisku na 50 % jas.
+Zasvieť svetlo v dielni na 75 % jas.
+Zasvieť svetlo v šatníku na 100 % jas.
+Zasvieť svetlo v pivnici na 50 % jas.
+Zasvieť svetlo v sklade na 75 % jas.
+Zasvieť svetlo na schodisku na 100 % jas.
+Zasvieť svetlo v dielni na 50 % jas.
+Zasvieť svetlo v šatníku na 75 % jas.
+Zasvieť svetlo v pivnici na 100 % jas.
+Zasvieť svetlo v sklade na 50 % jas.
+Zaszasvieť lampu v pivnici na 100 % jas.
+Rozsvieť lampu v pivnici na 100 % jas.
+Rozsvieť lampu v sklade na 50 % jas.
+Rozsvieť lampu na schodisku na 75 % jas.
+Rozsvieť lampu v dielni na 100 % jas.
+Rozsvieť lampu v šatníku na 50 % jas.
+Rozsvieť lampu v pivnici na 75 % jas.
+Rozsvieť lampu v sklade na 100 % jas.
+Rozsvieť lampu na schodisku na 50 % jas.
+Rozsvieť lampu v dielni na 75 % jas.
+Rozsvieť lampu v šatníku na 100 % jas.
+Rozsvieť lampu v pivnici na 50 % jas.
+Rozsvieť lampu v sklade na 75 % jas.
+Rozsvieť lampu na schodisku na 100 % jas.
+Rozsvieť lampu v dielni na 50 % jas.
+Rozsvieť lampu v šatníku na 75 % jas.
+Rozsvieť svetlo v garáži.
+Rozsvieť svetlo v šatníku.
+Rozsvieť svetlo v práčovni.
+Rozsvieť svetlo na schodisku.
+Rozsvieť svetlo v sklade.
+Rozsvieť svetlo v kuchyni na 100 % jas.
+Rozsvieť svetlo v detskej izbe na 50 % jas.
+Rozsvieť luster v detskej izbe na 50 % jas.
+Rozsvieť svetlo v pracovni na 75 % jas.
+Rozsvieť svetlo v jedálni na 100 % jas.
+Rozsvieť svetlo v garáži na 50 % jas.
+Rozsvieť svetlo na schodisku na 75 % jas.
+Rozsvieť svetlo v dielni na 100 % jas.
+Rozsvieť svetlo v šatníku na 50 % jas.
+Rozsvieť svetlo v pivnici na 75 % jas.
+Rozsvieť svetlo v sklade na 100 % jas.
+Rozsvieť svetlo na schodisku na 50 % jas.
+Rozsvieť svetlo v dielni na 75 % jas.
+Rozsvieť svetlo v šatníku na 100 % jas.
+Rozsvieť svetlo v pivnici na 50 % jas.
+Rozsvieť svetlo v sklade na 75 % jas.
+Rozsvieť svetlo na schodisku na 100 % jas.
+Rozsvieť svetlo v dielni na 50 % jas.
+Rozsvieť svetlo v šatníku na 75 % jas.
+Rozsvieť svetlo v pivnici na 100 % jas.
+Rozsvieť svetlo v sklade na 50 % jas.
+Zasrozsvieť lampu v pivnici na 100 % jas.
+Zhasni svetlo v pivnici.
+Zhasni svetlo v sklade.
+Zhasni svetlo na schodisku.
+Zhasni svetlo v dielni.
+Zhasni svetlo v šatníku.
+Zhasni svetlo v práčovni.
+Zhasni svetlo v garáži.
+Zhasni svetlo v podkroví.
+Zhasni svetlo v jedálni.
+Zhasni svetlo v kúpeľni.
+Zhasni svetlo v pracovni.
+Zhasni svetlo v spálni.
+Zhasni svetlo v detskej izbe.
+Zhasni svetlo na terase.
+Zhasni svetlo v záhrade.
+Zhasni svetlo v chodbe.
+Zhasni svetlo v obývačke.
+Zhasni luster v obývačke.
+Zhasni všetky svetlá v dome.
+Zasvieť lampu v obývačke.
+Zhasni lampu v kuchyni.
+Rozsvieť svetlá v spálni.
+Zhasni osvetlenie v kúpeľni.
+Zasvieť svetlo v garáži na 25 % jas.
+Rozsvieť svetlo v jedálni na 50 % jas.
+Zasvieť svetlo na terase na 75 % jas.
+Rozsvieť svetlo v chodbe na 100 % jas.
+Zasvieť všetky svetlá v dome.
+Zhasni všetky lampy v byte.
+Rozsvieť svetlo v pivnici na polovicu.
+Zasvieť svetlo na schodisku na maximum.
+Rozsvieť svetlo v šatníku na minimum.
+Rozsvieť svetlo v jedálni.
+Zasvieť svetlo v pracovni.
+Rozsvieť svetlo v detskej izbe.
+Zasvieť svetlo v záhrade.
+Rozsvieť svetlo v obývačke.
+Zasvieť svetlo v kuchyni na plný jas.
+Rozsvieť svetlo v kúpeľni na nízky jas.
+Zasvieť svetlo na chodbe na stredný jas.
+Rozsvieť svetlo na dvore na vysoký jas.
+Zasvieť svetlo v pracovni na 20 percent.
+Rozsvieť svetlo v jedálni na 40 percent.
+Zhasni svetlo v hosťovskej izbe.
+Zasvieť svetlo v šatníku na 60 percent.
+Rozsvieť svetlo v sklade na 80 percent.
+Zasvieť svetlo v saune na 100 percent.
+Zhasni svetlo v bazéne.
+Rozsvieť svetlo v zimnej záhrade na 30 percent.
+Zhasni svetlo v altánku.
+Zasvieť svetlo v skleníku na 70 percent.
+Rozsvieť svetlo v pivnici na 90 percent.
+Zasvieť svetlo v suteréne na 10 percent.
+Zhasni svetlo v komore.
+Rozsvieť svetlo v herni na 50 percent.
+Zhasni svetlo v štúdiu.
+Zasvieť svetlo v kancelárii na 75 percent.
+Zhasni svetlo v ateliéri.
+Rozsvieť svetlo v obývačke na 25 percent.
+Zhasni svetlo v kuchyni.
+Zasvieť svetlo v spálni na 50 percent.
+Rozsvieť svetlo na chodbe na 75 percent.
+Zasvieť svetlo na dvore na 100 percent.
+Rozsvieť svetlo v detskej izbe na 20 percent.
+Zasvieť svetlo v hosťovskej izbe na 40 percent.
+Rozsvieť svetlo v práčovni na 60 percent.
+Zasvieť svetlo v dielni na 80 percent.
+Zhasni svetlo v saune.
+Rozsvieť svetlo v bazéne na 100 percent.
+Zhasni svetlo v zimnej záhrade.
+Zasvieť svetlo v altánku na 30 percent.
+Zhasni svetlo v skleníku.
+Rozsvieť svetlo v garáži na 70 percent.
+Zasvieť svetlo v podkroví na 90 percent.
+Zhasni svetlo v suteréne.
+Rozsvieť svetlo v komore na 10 percent.
+Zhasni svetlo v herni.
+Zasvieť svetlo v štúdiu na 50 percent.
+Zhasni svetlo v kancelárii.
+Rozsvieť svetlo v ateliéri na 75 percent.
+Zasvieť svetlo v kuchyni na 25 percent.
+Rozsvieť svetlo v kúpeľni na 50 percent.
+Zasvieť svetlo na chodbe na 75 percent.
+Rozsvieť svetlo na dvore na 100 percent.
+Zasvieť svetlo v hosťovskej izbe.
+Zasvieť svetlo v dielni.
+Rozsvieť svetlo v bazéne.
+Zasvieť svetlo v altánku.
+Zasvieť svetlo v podkroví.
+Rozsvieť svetlo v komore.
+Zasvieť svetlo v štúdiu.
+Rozsvieť svetlo v ateliéri.
+Zasvieť svetlo v kuchyni.
+Rozsvieť svetlo v kúpeľni.
+Zasvieť svetlo na chodbe.
+Rozsvieť svetlo na dvore.
+Zhasni svetlo.
+Zasvieť svetlo v hosťovskej izbe na 40 percent jasu.
+Rozsvieť svetlo v práčovni na 60 percent jasu.
+Zasvieť svetlo v dielni na 80 percent jasu.
+Rozsvieť svetlo v bazéne na 100 percent jasu.
+Zasvieť svetlo v altánku na 30 percent jasu.
+Rozsvieť svetlo v garáži na 70 percent jasu.
+Zasvieť svetlo v podkroví na 90 percent jasu.
+Rozsvieť svetlo v komore na 10 percent jasu.
+Zasvieť svetlo v štúdiu na 50 percent jasu.
+Rozsvieť svetlo v ateliéri na 75 percent jasu.
+Zasvieť svetlo v kuchyni na 25 percent jasu.
+Rozsvieť svetlo v kúpeľni na 50 percent jasu.
+Zasvieť svetlo na chodbe na 75 percent jasu.
+Rozsvieť svetlo na dvore na 100 percent jasu.
+Zhasni všetky svetlá.
+Rozsvieť všetky svetlá.
+Zasvieť svetlo v spálni.
+Zhasni svetlo na chodbe.
+Rozsvieť svetlo na terase.
+Zasvieť svetlo na dvore.
+Zhasni svetlo na dvore.
+Rozsvieť svetlo v pracovni.
+Zasvieť svetlo v detskej izbe.
+Rozsvieť svetlo v saune.
+Zasvieť svetlo v bazéne.
+Rozsvieť svetlo v zimnej záhrade.
+Rozsvieť svetlo v skleníku.
+Rozsvieť svetlo v pivnici.
+Rozsvieť svetlo v suteréne.
+Zasvieť svetlo v komore.
+Rozsvieť svetlo v herni.
+Rozsvieť svetlo v kancelárii.
+Zasvieť svetlo v ateliéri.
+Vypni ventilátor v pivnici.
+Nastav teplotu v saune na 80 stupňov celzia.
+Zapni ventiláciu v šatníku.
+Vypni ventiláciu v chodbe.
+Nastav teplotu v hosťovskej izbe na 22 stupňov celzia.
+Zapni ventilátor v práčovni.
+Vypni ventilátor v dielni.
+Nastav teplotu v zimnej záhrade na 18 stupňov celzia.
+Zapni reproduktory na schodisku.
+Vypni ventilátor na terase.
+Nastav teplotu v garáži na 15 stupňov celzia.
+Zapni ventiláciu v sklade.
+Vypni ventiláciu v podkroví.
+Nastav teplotu v obývačke na 23 stupňov celzia.
+Zapni reproduktory v kuchyni na maximum.
+Vypni ventiláciu v jedálni.
+Nastav teplotu v spálni na 21 stupňov celzia.
+Zapni reproduktory v detskej izbe na polovicu hlasitosti.
+Vypni ventiláciu v kúpeľni.
+Zapni reproduktory v pracovni na trištvrte hlasitosti.
+Vypni ventiláciu v garáži.
+Nastav teplotu v kuchyni na 20 stupňov celzia.
+Zapni reproduktory v jedálni na maximum.
+Vypni ventiláciu v spálni.
+Nastav teplotu v detskej izbe na 21 stupňov celzia.
+Zapni reproduktory v kúpeľni na polovicu hlasitosti.
+Vypni ventiláciu v pracovni.
+Zapni reproduktory v kuchyni na trištvrte hlasitosti.
+Nastav teplotu v spálni na 22 stupňov celzia.
+Zapni reproduktory v detskej izbe na maximum.
+Nastav teplotu v pracovni na 21 stupňov celzia.
+Zapni reproduktory v garáži na polovicu hlasitosti.
+Vypni ventiláciu v sklade.
+Otvori garážové dvere.
+Zatvor závesy v obývačke.
+Otvori rolety v obývačke.
+Zatvor bránu.
+Aká je vonkajšia teplota v garáži?
+Pridaj mlieko na domáci zoznam.
+Aké je počasie v Bratislave?
+Aká je teplota doma?
+Nastav termostat v obývačke na 23 stupňov.
+Nastav termostat v spálni na 19 stupňov.
+Spusti vysávač.
+Zatvor spálňovú roletu na 50 percent.
+Otvor hlavný ventil na 25 percent.
+Zvýš hlasitosť na televízii.
+Zníž hlasitosť na televízii.
+Prepnúť televíziu na ďalší kanál.
+Prepnúť televíziu na predchádzajúci kanál.
+Sú dvere na záhradu otvorené?
+Je veľké okno zatvorené?
+Je malé okno otvorené?
+Je garážové dvere zatvorené?
+Sú dvere v garáži otvorené?
+Zamkni dvere.
+Odomkni dvere.
+Nastav časovač na 10 minút.
+Zruš časovač pizza.
+Koľko času zostáva na časovači v kuchyni?
+Aký je stav časovača pizza?
+Vypni všetky svetlá v obývačke.
+Zapni všetky svetlá v spálni.
+Zhasni všetky lampy v kuchyni.
+Rozsvieť všetky lampy v garáži.
+Nastav všetky svetlá v dome na 50 percent.
+Zníž jas všetkých svetiel v spálni na 25 percent.
+Zvýš jas všetkých svetiel v obývačke na 75 percent.
+Zapni kúrenie v obývačke.
+Vypni klimatizáciu v spálni.
+Nastav teplotu v kuchyni na 21 stupňov.
+Zamkni dvere na vchode.
+Odomkni dvere na terasu.
+Zapni ventilátor v kúpeľni.
+Vypni ventilátor v detskej izbe.
+Nastav jas svetla v chodbe na 30 percent.
+Zapni kúrenie v hosťovskej izbe.
+Vypni kúrenie v práčovni.
+Zapni klimatizáciu v sklade.
+Vypni klimatizáciu v dielni.
+Nastav časovač na 20 minút.
+Zruš časovač v obývačke.
+Aký je stav časovača v spálni?
+Zapni hudbu v obývačke.
+Vypni hudbu v spálni.
+Prehraj ďalšiu skladbu v kuchyni.
+Prehraj predchádzajúcu skladbu v garáži.
+Zapni svetlo v obývačke na červeno.
+Vypni svetlo v kuchyni na modro.
+Nastav jas nočnej lampy na zeleno.
+Rozsvieť svetlo v spálni na bielo.
+Rozsvieť svetlo na chodbe na oranžovo.
+Zhasni svetlo na terase na žlto.
+Rozsvieť svetlo na dvore na fialovo.
+Zhasni svetlo v pracovni na hnedo.
+Rozsvieť svetlo v detskej izbe na ružovo.
+Zhasni svetlo v jedálni na tyrkysovo.
+Zapni všetky svetlá v obývačke na červeno.
+Vypni všetky svetlá.
+Zhasni všetky lampy v kuchyni na zeleno.
+Rozsvieť všetky lampy v garáži na bielo.
+Nastav všetky svetlá v dome na červené.
+Zníž jas všetkých svetiel v spálni na oranžovo.
+Zvýš jas všetkých svetiel v obývačke na žlto.
+Zapni kúrenie v obývačke na 25 stupňov.
+Vypni klimatizáciu v spálni na 18 stupňov.
+Zamkni dvere na vchode na 10 minút.
+Odomkni dvere na terasu na 5 minút.
+Zapni ventilátor v kúpeľni na 30 percent.
+Vypni ventilátor v detskej izbe na 70 percent.
+Nastav jas svetla v chodbe na 40 percent.
+Zapni kúrenie v hosťovskej izbe na 22 stupňov.
+Vypni kúrenie v práčovni na 19 stupňov.
+Zapni klimatizáciu v sklade na 24 stupňov.
+Vypni klimatizáciu v dielni na 17 stupňov.
+Zruš časovač v obývačke na 20 minút.
+Aký je stav časovača v spálni na 25 minút?
+Koľko času zostáva na časovači v kuchyni na 30 minút?
+Zapni hudbu v obývačke na 50 percent.
+Vypni hudbu v spálni na 25 percent.
+Prehraj ďalšiu skladbu v kuchyni na 75 percent.
+Prehraj predchádzajúcu skladbu v garáži na 100 percent.
+Zapni svetlo v obývačke na červeno na 50 percent.
+Vypni svetlo v kuchyni na modro na 25 percent.
+Nastav jas nočnej lampy na zeleno na 75 percent.
+Rozsvieť svetlo v spálni na bielo na 100 percent.
+Zhasni svetlo v kúpeľni na čierno na 50 percent.
+Rozsvieť svetlo na chodbe na oranžovo na 25 percent.
+Zhasni svetlo na terase na žlto na 75 percent.
+Rozsvieť svetlo na dvore na fialovo na 100 percent.
+Zhasni svetlo v pracovni na hnedo na 50 percent.
+Rozsvieť svetlo v detskej izbe na ružovo na 25 percent.
+Zhasni svetlo v jedálni na tyrkysovo na 75 percent.
+Zapni všetky svetlá v obývačke na červeno na 100 percent.
+Rozsvieť všetky lampy v garáži na bielo na 75 percent.
+Nastav všetky svetlá v dome na 100 percent.
+Zmeň jas všetkých svetiel v spálni na 50 percent a farbu na oranžovú.
+Zvýš jas všetkých svetiel v obývačke na 25 percent a zmeň farbu na žltú.
+Zmeň teplotu v kuchyni z 20 stupňov na 50 percent.
+Zmeň ventilátor v kúpeľni z 30 percent na 100 percent.
+Zmeň hlasitosť v spálni z 25 na 100 percent.
+Aktivuj scénu "večera" v kuchyni.
+Deaktivuj scénu "relax" v obývačke.
+Prejdi na scénu "film" v spálni.
+Zmeň scénu na "párty" v záhrade.
+Aké je nastavenie termostatu v obývačke?
+Aké je nastavenie termostatu v spálni?
+Aké je nastavenie termostatu v kuchyni?
+Aké je nastavenie termostatu v kúpeľni?
+Otvor dvere na terasu.
+Zatvor dvere na terasu.
+Zatvor okno v spálni.
+Zatvor garážové dvere.
+Aké je nastavenie roliet v obývačke?
+Aké je nastavenie roliet v spálni?
+Aké je nastavenie roliet v kuchyni?
+Aké je nastavenie roliet v kúpeľni?
+Zamkni vchodové dvere.
+Odomkni vchodové dvere.
+Zamkni dvere na terasu.
+Aké je nastavenie ventilátora v obývačke?
+Aké je nastavenie ventilátora v spálni?
+Aké je nastavenie ventilátora v kuchyni?
+Aké je nastavenie ventilátora v kúpeľni?
+Zapni klimatizáciu v obývačke.
+Zapni kúrenie v kuchyni.
+Vypni kúrenie v kúpeľni.
+Nastav hlasitosť na televízore na 50 percent.
+Prepnúť televízor na kanál 1.
+Prepnúť televízor na kanál 2.
+Prepnúť televízor na kanál 3.
+Prepnúť televízor na kanál 4.
+Prepnúť televízor na kanál 5.
+Prepnúť televízor na kanál 6.
+Prepnúť televízor na kanál 7.
+Prepnúť televízor na kanál 8.
+Prepnúť televízor na kanál 9.
+Prepnúť televízor na kanál 10.
+Prepnúť televízor na kanál 11.
+Prepnúť televízor na kanál 12.
+Prepnúť televízor na kanál 13.
+Prepnúť televízor na kanál 14.
+Prepnúť televízor na kanál 15.
+Prepnúť televízor na kanál 16.
+Prepnúť televízor na kanál 17.
+Prepnúť televízor na kanál 18.
+Prepnúť televízor na kanál 19.
+Prepnúť televízor na kanál 20.
+Zníž hlasitosť na televízore.
+Prepnúť televízor na ďalší kanál.
+Prepnúť televízor na predchádzajúci kanál.
+Zastav hudbu v obývačke.
+Spusti hudbu v spálni.
+Prehraj hudbu v kuchyni.
+Zastav hudbu v garáži.
+Aké je nastavenie hlasitosti na televízore?
+Aké je nastavenie kanálu na televízore?
+Aké je nastavenie hudby v obývačke?
+Aké je nastavenie hudby v spálni?
+Aké je nastavenie hudby v kuchyni?
+Aké je nastavenie hudby v garáži?
+Zapni rádio v obývačke.
+Vypni rádio v spálni.
+Prehraj ďalšiu stanicu v kuchyni.
+Prehraj predchádzajúcu stanicu v garáži.
+Zastav rádio v obývačke.
+Spusti rádio v spálni.
+Prehraj rádio v kuchyni.
+Zastav rádio v garáži.
+Aké je nastavenie rádia v obývačke?
+Aké je nastavenie rádia v spálni?
+Aké je nastavenie rádia v kuchyni?
+Aké je nastavenie rádia v garáži?
+Nastav jas svetla v kuchyni na 50 percent.
+Rozsvieť svetlo v kúpeľni na maximum.
+Rozsvieť svetlo na terase na minimum.
+Rozsvieť svetlo v pracovni na 25 percent.
+Rozsvieť svetlo v jedálni na 75 percent.
+Rozsvieť svetlo v šatníku na 100 percent.
+Rozsvieť svetlo v sklade na 50 percent.
+Rozsvieť svetlo v saune na 75 percent.
+Rozsvieť svetlo v zimnej záhrade na 100 percent.
+Rozsvieť svetlo v skleníku na 50 percent.
+Rozsvieť svetlo v pivnici na 75 percent.
+Rozsvieť svetlo v suteréne na 100 percent.
+Rozsvieť svetlo v kancelárii na 75 percent.
+Otvor garážovú bránu.
+Zatvor garážovú bránu.
+Zapni monitoring okien.
+Zapni umývačku riadu.
+Otvor okno v kuchyni.
+Otvor bránu pre kuriéra.
+Zatvor všetky okná v dome.
+Otvor strešné okno v podkroví.
+Zatvor dvere na balkón.
+Otvor garážové dvere.
+Otvor rolety v obývačke.
+Prepni televíziu na ďalší kanál.
+Prepni televíziu na predchádzajúci kanál.
+Sú garážové dvere zatvorené?
+Otvor okno v spálni.
+Prepni televízor na kanál 1.
+Prepni televízor na kanál 2.
+Prepni televízor na kanál 3.
+Prepni televízor na kanál 4.
+Prepni televízor na kanál 5.
+Prepni televízor na kanál 6.
+Prepni televízor na kanál 7.
+Prepni televízor na kanál 8.
+Prepni televízor na kanál 9.
+Prepni televízor na kanál 10.
+Prepni televízor na kanál 11.
+Prepni televízor na kanál 12.
+Prepni televízor na kanál 13.
+Prepni televízor na kanál 14.
+Prepni televízor na kanál 15.
+Prepni televízor na kanál 16.
+Prepni televízor na kanál 17.
+Prepni televízor na kanál 18.
+Prepni televízor na kanál 19.
+Prepni televízor na kanál 20.
+Prepni televízor na ďalší kanál.
+Prepni televízor na predchádzajúci kanál.
+Rozsvieť svetlo v pracovni na 25 %.
+Rozsvieť svetlo v jedálni na 75 %.
+Rozsvieť svetlo v šatníku na 100 %.
+Rozsvieť svetlo v sklade na 50 %.
+Rozsvieť svetlo v saune na 75 %.
+Rozsvieť svetlo v zimnej záhrade na 100 %.
+Rozsvieť svetlo v skleníku na 50 %.
+Rozsvieť svetlo v pivnici na 75 %.
+Rozsvieť svetlo v suteréne na 100 %.
+Rozsvieť svetlo v kancelárii na 75 %.
