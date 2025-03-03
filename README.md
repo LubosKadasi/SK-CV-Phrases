@@ -1,2 +1,2 @@
 # SK-CV-Phrases
-Vzorové vety v slovenčine pre ovládanie smart domácnosti, pre projekt https://commonvoice.mozilla.org/sk
+[Vzorové vety](./phrases.txt) pre ovládanie smart domácnosti v slovenčine, pre projekt https://commonvoice.mozilla.org/sk
