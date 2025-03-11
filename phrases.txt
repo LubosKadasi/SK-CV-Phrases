@@ -337,7 +337,7 @@ Zapni lampu v dielni na 50 % jas.
 Zapni lampu v šatníku na 75 % jas.
 Zapni lampu v pivnici na 100 % jas.
 Zapni lampu v sklade na 50 % jas.
-Zapni lampu v šatníku na 50 %zapni lampu v obývačke.
+Zapni lampu v šatníku na 50 %.
 Zapni lampu v šatníku na 50 %
 Zasvieť lampu v pivnici na 100 % jas.
 Zasvieť lampu v sklade na 50 % jas.
